@@ -1,0 +1,7 @@
+﻿  laba6oop.cpp
+D:\2.Projects\laba6oop\laba6oop.cpp(137,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2.Projects\laba6oop\laba6oop.cpp(137,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2.Projects\laba6oop\laba6oop.cpp(138,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2.Projects\laba6oop\laba6oop.cpp(138,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2.Projects\laba6oop\laba6oop.cpp(130,19): warning C4101: x: неиспользованная локальная переменная
+  laba6oop.vcxproj -> D:\2.Projects\laba6oop\x64\Debug\laba6oop.exe
